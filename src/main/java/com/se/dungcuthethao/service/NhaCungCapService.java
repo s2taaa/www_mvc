@@ -12,5 +12,6 @@ public interface NhaCungCapService {
 	public void save(NhaCungCap nhaCungCap);
 
 	public void deleteById(Long id);
+	public void update(NhaCungCap nhaCungCap);
 
 }

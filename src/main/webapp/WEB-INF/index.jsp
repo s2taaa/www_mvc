@@ -34,6 +34,10 @@
 		<h1>Dung cu the thao</h1>
 		<a href="api/sanphams">tat ca san pham</a>
 		<a href="api/khachhangs">tat ca khach hang</a>
+		<a href="api/nhacungcaps">tat ca khach hang</a>
+		<a href="api/hoadons">tat ca hoa dons</a>
+		<a href="api/chitiethoadons">tat ca chi tiet hoa don</a>
+		
 	</div>
 	<div class="footer">
 		<p>footer</p>
