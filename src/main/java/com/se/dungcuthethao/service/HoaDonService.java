@@ -12,5 +12,6 @@ public interface HoaDonService {
 	public void save(HoaDon hoaDon);
 
 	public void deleteById(Long id);
+	public void update(HoaDon hoaDon);
 
 }

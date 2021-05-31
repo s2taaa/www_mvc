@@ -9,4 +9,5 @@ public interface SanPhamService {
 	public SanPham findById(Long id);
 	public void save(SanPham sanPham);
 	public void deleteById(Long id);
+	public void update(SanPham sanPham);
 }
